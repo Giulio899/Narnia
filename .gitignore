@@ -1,6 +1,8 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+*.vsconfig
+
 # Compiled Object files
 *.slo
 *.lo
@@ -72,3 +74,12 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Content folder
+Content/*
+
+# Rider folder
+.idea/*
+
+# Whitelist of Content
+!Content/Core
