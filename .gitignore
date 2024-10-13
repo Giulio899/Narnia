@@ -80,6 +80,3 @@ Content/*
 
 # Rider folder
 .idea/*
-
-# Whitelist of Content
-!Content/Core
